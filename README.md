@@ -1,3 +1,7 @@
+# Unsupervised Graph Representation Learning beyond Aggregated View
+# Paper
+Unsupervised Graph Representation Learning beyond Aggregated View, IEEE Transactions on Knowledge and Data Engineering, 2024
+
 # Requirements
 
 + CUDA 11.1
